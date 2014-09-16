@@ -1,0 +1,55 @@
+[Eagle]
+Version="06 05 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/con-molex.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/crystal.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/resistor.lbr"
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/special.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/40xx.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/ADXLxxx.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/Arduino.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/Cny70-Sensor.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/Connectone.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/Connectors.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/Parallax-Propeller.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/Parallax-Sensirion.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/Regulator.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/Sonmicro.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/Xbee.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Connectors.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Electromechanical.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/LilyPad-Wearables.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Aesthetics.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-AnalogIC.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Boards.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Capacitors.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-DigitalIC.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Displays.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-FreqCtrl.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-LED.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Passives.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-PowerIC.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-RF.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Resistors.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/SparkFun-Eagle-Libraries/SparkFun-Sensors.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/4D-Systems.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/DC-controllers.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/Jumper.lbr"
+UsedLibrary="C:/Users/Jonathan/Documents/eagle/lbr/joruiz-eagle-libraries/Diode.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="332 293 931 692"
+State=1
+Number=0
+
+[Desktop]
+Screen="1680 1050"
+Window="Win_1"
